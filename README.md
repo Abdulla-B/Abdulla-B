@@ -10,13 +10,6 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 
-<h2>:books: My personal portfolio</h2>
-
-<a href="https://www.datascienceportfol.io/fhariq1901" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="22px" />
-</a>
-
-
 </a>
 <a href="mailto:fhariq1901@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=fhariq1901@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
@@ -28,6 +21,11 @@
     <img alt="link to my LeetCode" src="https://img.shields.io/badge/LeetCode-Fhariq07-orange?style=for-the-badge&logo=leetcode" height="22px" />
 </a>
 
+<h2>:books: My personal portfolio</h2>
+
+<a href="https://www.datascienceportfol.io/fhariq1901" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="22px" />
+</a>
 
 </br>
 
